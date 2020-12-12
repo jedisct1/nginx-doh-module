@@ -1,2 +1,1 @@
-# nginx-doh-module
-DNS-over-HTTP2 module for Nginx
+# Obsolete: use [DOH server](https://github.com/jedisct1/doh-server) instead.
